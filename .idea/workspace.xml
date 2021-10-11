@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0c1b4fc-ee1b-4045-97f7-4fd9b23bd7d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lara_auto/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../lara_auto/public/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +14,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1zMheXhzZ5OWZAcya8ABbxYIsD4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -37,7 +36,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633963960273</updated>
-      <workItem from="1633963961571" duration="28000" />
+      <workItem from="1633963961571" duration="566000" />
     </task>
     <servers />
   </component>

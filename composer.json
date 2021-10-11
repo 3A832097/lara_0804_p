@@ -1,5 +1,7 @@
 {
     "name": "ncut/lara_0804_p",
     "description": "autoload classes",
-    "require": {}
+    "require": {
+        "nesbot/carbon": "^2.53"
+    }
 }
